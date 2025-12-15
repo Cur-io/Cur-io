@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-22c55e?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Interest-AI%20%26%20Automation-0ea5e9?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Interest-AI-0ea5e9?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Status-Student-8b5cf6?style=for-the-badge&labelColor=0d1117" />
 </p>
 
