@@ -109,9 +109,9 @@ version_control:
     <img src="https://img.shields.io/badge/GitHub-CalvinsMikwaya-black?style=for-the-badge&logo=github&labelColor=0d1117" />
   </a>
 
-  <!-- Instagram -->
-  <a href="https://instagram.com/cu_.rio" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Connect-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+ <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
 
   <!-- WhatsApp -->
