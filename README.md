@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:22c55e,100:8b5cf6&height=140&section=header&text=Calvins%20Mikwaya&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%7C%20Cybersecurity%20%26%20AI&descSize=18&descAlignY=55" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Calvins%20Mikwaya&fontSize=44&fontColor=ffffff&color=0:0ea5e9,50:22c55e,100:8b5cf6" 
+    alt="Calvins Mikwaya Header"
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3200&pause=900&color=22c55e&center=true&vCenter=true&width=780&lines=Building+secure+and+intelligent+systems;Cybersecurity+first%2C+AI+with+purpose;Learning%2C+building%2C+and+improving+daily" alt="Typing SVG" />
 </p>
