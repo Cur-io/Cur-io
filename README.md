@@ -44,9 +44,9 @@ currently_learning:
 ## 🛠 Tech Stack
 
 yaml
-languages:
-  - Python
-  - JavaScript
+languages:                                                        web:
+  - Python                                                          -HTML
+  - JavaScript                                                      -CSS
 
 web:
   - HTML
