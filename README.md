@@ -19,9 +19,9 @@
 
 ## 👋 About Me
 
-I’m an *IT student at Machakos University* with a strong interest in *Cybersecurity* and *Artificial Intelligence. My goal is to build **secure, reliable systems* while exploring how AI can enhance security, automation, and decision-making.
+I’m an *IT student at Machakos University* with a strong interest in *Cybersecurity* and *Artificial Intelligence*. My goal is to build *secure*, *reliable systems* while exploring how AI can enhance security, automation, and decision-making.
 
-I’m a *Certified Software Engineer (AI branch)* through the *Power Learn Project, and I’m currently working toward additional **cybersecurity certifications* to deepen my technical and defensive skills.
+I’m a *Certified Software Engineer (AI branch)* through the *Power Learn Project*, and I’m currently working toward additional *cybersecurity certifications* to deepen my technical and defensive skills.
 
 ---
 
@@ -29,9 +29,9 @@ I’m a *Certified Software Engineer (AI branch)* through the *Power Learn Proje
 
 yaml
 primary_focus:
-  - Cybersecurity (Blue Team & Defensive Concepts)
+  - Cybersecurity (Security Analyst)
   - Secure Systems & Best Practices
-  - AI-assisted Automation
+  - AI
 
 currently_learning:
   - Networking & Linux fundamentals
@@ -43,14 +43,11 @@ currently_learning:
 
 ## 🛠 Tech Stack
 
-yaml
-languages:                                                        web:
-  - Python                                                          -HTML
-  - JavaScript                                                      -CSS
-
-web:
+languages: 
+  - Python 
   - HTML
-  - CSS
+  - CSS                                                        
+  - JavaScript                                                      
 
 ai_tools:
   - OpenAI APIs
@@ -64,7 +61,6 @@ security_basics:
 version_control:
   - Git
   - GitHub
-
 
 ---
 
@@ -83,8 +79,8 @@ version_control:
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CalvinsMikwaya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=0ea5e9&text_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinsMikwaya&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cur-io&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=0ea5e9&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cur-io&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff" />
 </p>
 
 ---
@@ -108,8 +104,19 @@ version_control:
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/CalvinsMikwaya">
+  <!-- GitHub -->
+  <a href="https://github.com/Cur-io">
     <img src="https://img.shields.io/badge/GitHub-CalvinsMikwaya-black?style=for-the-badge&logo=github&labelColor=0d1117" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/cu_.rio" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Connect-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/+254757425765" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
