@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Calvins%20Mikwaya&fontSize=44&fontColor=ffffff&color=0:0ea5e9,50:22c55e,100:8b5cf6" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&text=MURIGA%20CALVIN'S&fontSize=44&fontColor=ffffff&color=0:0ea5e9,50:22c55e,100:8b5cf6" 
     alt="Calvins Mikwaya Header"
 </p>
 <p align="center">
