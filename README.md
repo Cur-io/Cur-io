@@ -1,129 +1,84 @@
-## Hi there 👋
+# 👋 Hi, I'm Calvin Muriga
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&text=MURIGA%20CALVIN'S&fontSize=44&fontColor=ffffff&color=0:0ea5e9,50:22c55e,100:8b5cf6" 
-    alt="Calvins Mikwaya Header"
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3200&pause=900&color=22c55e&center=true&vCenter=true&width=780&lines=Building+secure+and+intelligent+systems;Cybersecurity+first%2C+AI+with+purpose;Learning%2C+building%2C+and+improving+daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=IT+Student;CCNA+%7C+Networking+Enthusiast;Python+Learner;Aspiring+Network+Engineer;Building+%7C+Learning+%7C+Growing" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-22c55e?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Interest-AI-0ea5e9?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Status-Student-8b5cf6?style=for-the-badge&labelColor=0d1117" />
-</p>
-
----
-
-## 👋 About Me
-
-I’m an *IT student at Machakos University* with a strong interest in *Cybersecurity* and *Artificial Intelligence*. My goal is to build *secure*, *reliable systems* while exploring how AI can enhance security, automation, and decision-making.
-
-I’m a *Certified Software Engineer (AI branch)* through the *Power Learn Project*, and I’m currently working toward additional *cybersecurity certifications* to deepen my technical and defensive skills.
-
----
-
-## 🎯 Focus Areas
-
-yaml
-primary_focus:
-  - Cybersecurity (Security Analyst)
-  - Secure Systems & Best Practices
-  - AI
-
-currently_learning:
-  - Networking & Linux fundamentals
-  - Threats, vulnerabilities & mitigation
-  - Applying AI concepts to security problems
-
-
----
-
-## 🛠 Tech Stack
-
-languages: 
-  - Python 
-  - HTML
-  - CSS                                                        
-  - JavaScript                                                      
-
-ai_tools:
-  - OpenAI APIs
-  - AI/ML fundamentals
-
-security_basics:
-  - Networking
-  - Linux
-  - Security concepts (in progress)
-
-version_control:
-  - Git
-  - GitHub
-
----
-
-## 📌 Projects
-
-> Selected work that reflects my learning journey and interests.
-
-* *AI Project (Power Learn Project)*
-  Introductory AI-based project demonstrating applied concepts.
-  Python · AI Fundamentals
-
-👉 More projects will be added as I progress in cybersecurity and AI.
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cur-io&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=0ea5e9&text_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cur-io&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff" />
-</p>
-
----
-
-## 📚 Currently Working On
-
-* Cybersecurity certifications
-* Strengthening networking & Linux skills
-* Building hands-on security and AI projects
-
----
-
-## 🤝 Open To
-
-* Learning opportunities & mentorship
-* Student collaborations
-* Entry-level projects in cybersecurity or AI
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <!-- GitHub -->
-  <a href="https://github.com/Cur-io">
-    <img src="https://img.shields.io/badge/GitHub-CalvinsMikwaya-black?style=for-the-badge&logo=github&labelColor=0d1117" />
-  </a>
-
- <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/+254757425765" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
 </p>
 
-<p align="center">
-  <sub>Focused on learning, building, and securing the systems of tomorrow.</sub>
-</p>
+---
+
+## 💻 About Me
+
+I'm an **IT student** passionate about networking and cybersecurity.
+
+I'm currently focused on building practical skills through **Cisco networking labs, programming projects, and hands-on experimentation**.
+
+- 🎓 IT Student at Machakos University
+- 🌐 Studying **CCNA & Network Engineering**
+- 🐍 Learning **Python**
+- 🔧 Building practical networking projects
+- 🚀 Aspiring Network Engineer
+
+---
+
+## 🌐 Networking Skills
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:22c55e,100:0ea5e9&height=120&section=footer&animation=fadeIn" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IPv4%20%26%20IPv6-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLANs-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Routing-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Subnetting-333333?style=for-the-badge"/>
 </p>
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,php,mysql,git,github,linux,vscode" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 CCNA Networking Labs
+
+Hands-on Cisco Packet Tracer labs covering:
+
+- VLANs & Trunking
+- Inter-VLAN Routing
+- IPv4 & IPv6
+- Subnetting
+- Static Routing
+- Network Troubleshooting
+- Cisco IOS Configuration
+
+### 🐍 Network Scanner
+
+A Python-based networking project focused on discovering and analyzing devices on a network.
+
+### 💻 Web Development Projects
+
+Web applications and websites created while developing my software engineering skills.
+
+---
+
+## 📚 Currently Learning
+
+```text
+🌐 Advanced Networking
+🐍 Python for Network Automation
+🔐 Cybersecurity
+☁️ Cloud Technologies
+⚙️ Network Automation
+🐧 Linux
